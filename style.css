@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+}
+
+header {
+    height: 10vh;
+    background-color: black;
+    object-fit: contain;
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    color: antiquewhite;
+}
+
+p {
+    color: aliceblue;
+}
+
+a:link {
+    color:antiquewhite;
+}
+
+a:visited{
+    color: antiquewhite;
+}
+
+a:hover {
+    color: gray;
+}
+
+a:active {
+    color: blue;
+}
+
+.min_klass {
+    font-style: italic;
+    color: antiquewhite;
+}
+.contain {object-fit: contain;}
+
+.pond {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.groda1 {
+    color: green;
+        }
+
+.groda2 {
+    color: red;
+}
